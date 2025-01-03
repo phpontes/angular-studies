@@ -21,12 +21,12 @@ export const DUMMY_USERS = [
   },
   {
     id: 'u5',
-    name: 'Priscila Patel',
+    name: 'Prissila Patel',
     avatar: 'user-5.jpg',
   },
   {
     id: 'u6',
-    name: 'Aroldo Singh',
+    name: 'Aroudo Singh',
     avatar: 'user-6.jpg',
   },
 ];
